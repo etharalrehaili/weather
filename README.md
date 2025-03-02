@@ -20,7 +20,7 @@ The application includes the following features:
 - **JavaScript (ES6)** for app logic and functionality.
 
 ### Screenshot 📸
-Here’s a preview of how the Todo App looks:
+Here’s a preview of how the Weather App looks:
 
 ![Screenshot](screenshot.png)
 
