@@ -53,7 +53,12 @@ To run this project locally, follow these steps:
   npm run dev
 ```
 
-5. Open the app in your browser at http://localhost:3000
+5. Open the app in your browser at http://localhost:5174
 
+
+### Live App 🚀
+
+[Weather App - Live
+](https://main.dvxtgymsyptsw.amplifyapp.com/)
 
 
