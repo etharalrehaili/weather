@@ -1,6 +1,6 @@
 # Weather App 🌤️
 
-This project is a simple Weather Application built using **React.js** and **TailwindCSS**. The app allows users to search for the current weather in a specific city, including real-time temperature, wind speed, humidity, and a 5-day weather forecast.
+This project is a simple Weather Application built using **React.js**, **TailwindCSS** and **OpenWeather API**. The app allows users to search for the current weather in a specific city, including real-time temperature, wind speed, humidity, and a 5-day weather forecast.
 
 ## Features 🎯
 
