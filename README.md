@@ -58,6 +58,8 @@ To run this project locally, follow these steps:
 
 ### Live App 🚀
 
+You can access app here:
+
 [Weather App - Live
 ](https://main.dvxtgymsyptsw.amplifyapp.com/)
 
